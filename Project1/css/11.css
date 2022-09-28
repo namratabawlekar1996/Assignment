@@ -1,0 +1,53 @@
+.bg-image{background-image: url(https://cdn.vectorstock.com/i/1000x1000/45/11/purple-clothes-background-vector-35944511.webp);
+        height: 600px;
+         background-repeat: no-repeat;
+         background-position: center;
+         background-size: 100%;
+}
+h1{
+    color: white;
+    font-size: 80px;
+    font-weight: 800;
+    margin-top: 150px;
+    text-align: center;
+}
+h2{
+    color: white;
+    font-size: 50px;
+    margin-top: 15px;
+    text-align: center;
+    font-weight:500;
+}
+p{
+    font-size: 20px;
+    margin-top:10px;
+}
+.footer{
+    background-color: black;
+    color: white;
+    text-align: center;
+    height: 80px;
+    padding-top:20px;
+}
+
+.form-control{
+    border-left: none;border-right: none; border-top: none;
+    border-color: black;
+}
+.img{
+     height:450px;;
+    
+}
+
+ .bg-image-1{
+    background-image: url(https://d3nn873nee648n.cloudfront.net/900x600/19655/17-SM952434.jpg);
+ }
+
+.form-control-lg{
+    border-radius: 30px;
+    -webkit-border-radius: 30px;
+    -moz-border-radius: 30px;
+    -ms-border-radius: 30px;
+    -o-border-radius: 30px;
+    background-color: darkgrey;
+}

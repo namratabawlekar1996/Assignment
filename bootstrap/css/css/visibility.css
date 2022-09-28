@@ -1,0 +1,63 @@
+h1{
+    /* visibility: hidden; */
+    cursor:auto
+}
+
+.alias{
+    cursor: alias;
+}
+
+.all-scroll{
+    cursor: all-scroll;
+
+}
+.cell{
+    cursor: cell;
+}
+.col-resize{
+    cursor: col-resize;}
+.context-menu{
+    cursor:context-menu;
+}
+.copy
+{cursor: copy;
+}
+.crosshair
+{cursor: crosshair;
+}
+.e-resize{
+    cursor: e-resize;
+}
+.ew-resize{
+    cursor: ew-resize;
+}
+.grab{
+    cursor: grab;
+}
+.help{
+    cursor: help;
+}
+.move{
+    cursor: move;
+}
+.no-drop{
+    cursor: no-drop;
+}
+.NA{
+    cursor: not-allowed;
+}
+.zoom{
+    cursor: zoom-in;
+}
+.progress{
+    cursor: progress;
+}
+.webkit{
+    cursor:-webkit-grab
+}
+.{
+    cursor: -webkit-grab;
+}
+.wait{
+cursor: wait;
+}

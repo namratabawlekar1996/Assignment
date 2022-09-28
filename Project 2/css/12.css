@@ -1,0 +1,73 @@
+
+.bg-image{background-image: url('https://media.istockphoto.com/photos/doctor-in-hospital-background-with-copy-space-picture-id949812160?k=20&m=949812160&s=170667a&w=0&h=d37eip7n1YrRu2wZxkKndJb_IR6DevLpXbAWBzzWVD8=');
+    height: 100%;
+     background-repeat: no-repeat;
+     background-position: center;
+     background-size: 100%;
+}
+.box-1:hover{
+    background-color:white !important;
+    box-shadow: 0px 7px 21px 1px rgba(0,0,0,0.7);
+    
+}
+.welcome ::after, ::before{
+    box-sizing:border-box;
+
+ }
+ .welcome h1{
+    font-weight: 700;
+ }
+ .welcome p{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif ;
+ }
+ .card{
+    border: 500;
+    /* border-width: 500; */
+ }
+ .section-1{
+   height: 400px;
+   width: 100%;
+   background-color: light;
+
+   text-align: center;
+ }
+ .box-2:hover{
+   background-color: white !important;
+   box-shadow: 0px 7px 21px 1px rgba(0,0,0,0.7);
+ }
+ .box-4{
+   background-image: url('https://media.istockphoto.com/photos/stethoscope-with-space-for-copy-picture-id1343679839?b=1&k=20&m=1343679839&s=170667a&w=0&h=PmxkddUD8hBWZ8PvpiVFF6SMIwxTsBTElEi31X6RGGI=');
+background-repeat: no-repeat;
+background-size: 100%;
+height: 650px !important;
+
+ }
+ .card-body:hover{
+background-color: rgb(141, 141, 241) !important;
+
+ }
+ .box-5{
+   
+   background-image: url('https://i.pinimg.com/originals/e1/a0/09/e1a0097b1dc2b68c6663a96084c66f27.jpg');
+background-repeat: no-repeat;
+background-size: 100%;
+height: 100% !important;
+ }
+.font{
+font-size: small;
+}
+.box-6 a{
+   color: black;
+   text-decoration: none
+}
+.box-6 a:hover{
+   color: blue;
+}
+.box-7 a{
+   color: white;
+   text-decoration: none;
+}
+.box-7 a:hover{
+   color: blue;
+
+}

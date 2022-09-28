@@ -1,0 +1,13 @@
+.img{
+height: 210px;
+}
+
+.box-1{
+    width: 100% !important;
+    height: 550px !important;
+    background-image: url('https://img.freepik.com/free-psd/poster-frame-restaurant-mockup_1150-50085.jpg?w=2000');
+    background-position: center;
+    backdrop-filter: blur(8px) !important;
+}
+
+

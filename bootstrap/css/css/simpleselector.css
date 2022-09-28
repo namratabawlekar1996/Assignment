@@ -1,0 +1,31 @@
+*{
+margin: 0%;
+padding: 0%;
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+text-align: center;
+background-color: darkgray;
+font-size: 3
+0px;
+
+}
+p{color: brown;
+font-size: medium;}
+#para{
+    color: crimson;
+    font-size: larger;
+    font-style: italic;
+}
+.box{
+    background-color: cornflowerblue;
+    height: 300px;
+    width: 300px;
+}
+p,h2,h1,pre{
+    color: darkgreen0;
+    font-size: large;
+    background-color: aquamarine;
+word-spacing: 2px;
+}
+span{
+    color: indigo;
+}

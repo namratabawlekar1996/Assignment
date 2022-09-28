@@ -1,0 +1,22 @@
+.box{height: 1000px;
+width: 100%;
+background-color: aqua;
+background: url("/img/download.jpg") no-repeat;
+
+background-position: 100px;
+background-attachment: fixed;
+background-size: 800px;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+font-size: larger;
+}
+h1{
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif0;
+font-size: larger;
+font-weight: 100;
+font-variant: small-caps;
+background-color: brown;
+word-spacing: 0%;
+letter-spacing: ;50px
+
+}
+a{text-decoration: dotted;}
